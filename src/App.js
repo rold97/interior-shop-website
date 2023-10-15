@@ -11,10 +11,10 @@ function App() {
     <>
       <Hero />
       <Services />
-      {/* <Products /> */}
-      {/* <Reference /> */}
-      {/* <Care /> */}
-      {/* <Footer /> */}
+      <Products />
+      <Reference />
+      <Care />
+      <Footer />
     </>
   );
 }

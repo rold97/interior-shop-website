@@ -85,7 +85,7 @@ const Hero = () => {
           {heroSubtitle}
         </h1>
       </FadeIn>
-      <FadeIn delay={0.2} direction="up" padding fullWidth>
+      <FadeIn delay={0.4} direction="up" padding fullWidth>
         <div className="relative w-full xs:w-[460px] mt-11">
           <input
             type="text"
