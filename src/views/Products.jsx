@@ -49,7 +49,7 @@ const Products = () => {
                   <img
                     src={plusIcon}
                     alt="plusIcon"
-                    className="cursor-pointer h-10 xs:h-12 w-10 xs:w-12"
+                    className="cursor-pointer h-10 xs:h-12 w-10 xs:w-12 hover:scale-110 ease-in-out duration-200 "
                   />
                 </div>
               </div>
